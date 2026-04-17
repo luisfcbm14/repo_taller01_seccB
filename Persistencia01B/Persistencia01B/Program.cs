@@ -14,7 +14,7 @@ namespace Persistencia01B
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Taller Sección B");
 			
 			// TODO: Implement Functionality Here
 			
